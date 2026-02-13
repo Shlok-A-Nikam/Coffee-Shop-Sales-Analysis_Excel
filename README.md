@@ -83,10 +83,10 @@ Sales comparison across locations shows:
 - Power Query – Data cleaning and transformation
 - 	Pivot Tables & Pivot Charts – Aggregation and visualization
 - 	Excel Functions:
-  -	SUMIFS
-  -	COUNTIFS
-  -	AVERAGE
-  -	VLOOKUP / INDEX-MATCH
+    *	SUMIFS
+    *	COUNTIFS
+    *	AVERAGE
+    *	VLOOKUP / INDEX-MATCH
 -	Dashboard Design:
   -	Slicers for Month & Store
   -  KPI Cards
