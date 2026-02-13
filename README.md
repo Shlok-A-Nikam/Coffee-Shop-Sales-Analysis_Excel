@@ -88,9 +88,9 @@ Sales comparison across locations shows:
     *	AVERAGE
     *	VLOOKUP / INDEX-MATCH
 -	Dashboard Design:
-  -	Slicers for Month & Store
-  -  KPI Cards
-  - Interactive charts
+    *	Slicers for Month & Store
+    *  KPI Cards
+    * Interactive charts
 ### 9. Key Insights
 -	Morning hours drive maximum revenue.
 -	Coffee category dominates overall sales share.
