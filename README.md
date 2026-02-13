@@ -8,8 +8,8 @@ The objective is to explore transaction-level sales data and derive meaningful b
 
 ##### The analysis focuses on:
 
-•	Customer purchasing behavior
-•	Product performance and category contribution
-•	Store-wise and time-wise sales trends
-•	Revenue generation and operational efficiency
+-	Customer purchasing behavior
+-	Product performance and category contribution
+-	Store-wise and time-wise sales trends
+-	Revenue generation and operational efficiency
 
